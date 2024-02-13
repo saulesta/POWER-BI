@@ -15,4 +15,4 @@ It's a project I made as a final Power BI project at Vilnius Coding School. I go
 
 ### Individual projects:
 #### * Nykka file
-This png file is a screenshot of my own first dashboard that I made straight out of the courses. It is an analysis about Nykka online beauty store's reviews about brands, and products. Got the data from Kaggle website, where you can get free data for multiple reasons ad one of them is learning.
+This png file is a screenshot of my own first dashboard that I made straight out of the courses. It is an analysis about Nykka online beauty store's reviews about brands, and products. Got the data from Kaggle website, where you can get free data for multiple reasons and one of them is learning.
